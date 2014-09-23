@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FullScreenViewController.h
 //  CandyStore
 //
 //  Created by Phillip Ou on 9/16/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FullScreenViewController : UIViewController
 
 @end
-
